@@ -1,0 +1,1 @@
+Kanban jest metodyką bardziej adaptacyjną i swobodną w porównaniu do SCRUM. W przypadku Kanban sytuacja jest dużo prostsza – metodyka nakazuje jedynie przedstawianie w sposób wizualny przebiegu prac i określenie limitów Work in Progress. W Scrumie także z góry określone pewne role - Product Ownera, Zespółu i Scrum Mastera. Kanban dla odmiany nie narzuca żadnej z tych ról.
